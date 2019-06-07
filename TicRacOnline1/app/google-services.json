@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "497016512537",
+    "firebase_url": "https://ticraconline1.firebaseio.com",
+    "project_id": "ticraconline1",
+    "storage_bucket": "ticraconline1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497016512537:android:8e1339c084477a07",
+        "android_client_info": {
+          "package_name": "com.example.gordon.ticraconline1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497016512537-8nd33gi433h595kab685kccomofidenb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gordon.ticraconline1",
+            "certificate_hash": "11dd555bf976d1465bf57ed675cb8e975d9bb317"
+          }
+        },
+        {
+          "client_id": "497016512537-ga5vrk4dth9kq4rrtdd6jh2jggpgcvt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYhRq8Jfm6YAfgk1rQOLuJA_V52_LRPlY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497016512537-ga5vrk4dth9kq4rrtdd6jh2jggpgcvt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
